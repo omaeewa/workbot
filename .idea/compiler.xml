@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="workbot.workbot.main" target="17" />
+      <module name="workbot.workbot.main~1" target="17" />
+      <module name="workbot.workbot.test" target="17" />
+      <module name="workbot.workbot.test~1" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
